@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joaos\\OneDrive\\visualStudio\\Odonto.JS\\Odonto.JS\\Odonto.JS.csproj": {}
+    "C:\\Users\\joaos\\OneDrive\\visualStudio\\CadastroPessoas\\Odonto.JS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joaos\\OneDrive\\visualStudio\\Odonto.JS\\Odonto.JS\\Odonto.JS.csproj": {
+    "C:\\Users\\joaos\\OneDrive\\visualStudio\\CadastroPessoas\\Odonto.JS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joaos\\OneDrive\\visualStudio\\Odonto.JS\\Odonto.JS\\Odonto.JS.csproj",
+        "projectUniqueName": "C:\\Users\\joaos\\OneDrive\\visualStudio\\CadastroPessoas\\Odonto.JS.csproj",
         "projectName": "Odonto.JS",
-        "projectPath": "C:\\Users\\joaos\\OneDrive\\visualStudio\\Odonto.JS\\Odonto.JS\\Odonto.JS.csproj",
+        "projectPath": "C:\\Users\\joaos\\OneDrive\\visualStudio\\CadastroPessoas\\Odonto.JS.csproj",
         "packagesPath": "C:\\Users\\joaos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joaos\\OneDrive\\visualStudio\\Odonto.JS\\Odonto.JS\\obj\\",
+        "outputPath": "C:\\Users\\joaos\\OneDrive\\visualStudio\\CadastroPessoas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joaos\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -48,7 +48,7 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.0-preview.3.22175.1, )"
+              "version": "[6.0.4, )"
             },
             "Microsoft.EntityFrameworkCore.Tools.DotNet": {
               "target": "Package",
